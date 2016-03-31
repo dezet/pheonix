@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///private/var/www/hello_pheonix/deps/connection/connection.iml" filepath="/private/var/www/hello_pheonix/deps/connection/connection.iml" />
+      <module fileurl="file:///private/var/www/hello_pheonix/deps/db_connection/dbconnection.iml" filepath="/private/var/www/hello_pheonix/deps/db_connection/dbconnection.iml" />
+      <module fileurl="file:///private/var/www/hello_pheonix/deps/decimal/decimal.iml" filepath="/private/var/www/hello_pheonix/deps/decimal/decimal.iml" />
+      <module fileurl="file:///private/var/www/hello_pheonix/deps/ecto/ecto.iml" filepath="/private/var/www/hello_pheonix/deps/ecto/ecto.iml" />
+      <module fileurl="file:///private/var/www/hello_pheonix/deps/gettext/gettext.iml" filepath="/private/var/www/hello_pheonix/deps/gettext/gettext.iml" />
+      <module fileurl="file:///private/var/www/hello_pheonix/hellopheonix.iml" filepath="/private/var/www/hello_pheonix/hellopheonix.iml" />
+      <module fileurl="file:///private/var/www/hello_pheonix/deps/phoenix/phoenix.iml" filepath="/private/var/www/hello_pheonix/deps/phoenix/phoenix.iml" />
+      <module fileurl="file:///private/var/www/hello_pheonix/deps/phoenix_ecto/phoenixecto.iml" filepath="/private/var/www/hello_pheonix/deps/phoenix_ecto/phoenixecto.iml" />
+      <module fileurl="file:///private/var/www/hello_pheonix/deps/phoenix_html/phoenixhtml.iml" filepath="/private/var/www/hello_pheonix/deps/phoenix_html/phoenixhtml.iml" />
+      <module fileurl="file:///private/var/www/hello_pheonix/deps/phoenix_live_reload/phoenixlivereload.iml" filepath="/private/var/www/hello_pheonix/deps/phoenix_live_reload/phoenixlivereload.iml" />
+      <module fileurl="file:///private/var/www/hello_pheonix/deps/plug/plug.iml" filepath="/private/var/www/hello_pheonix/deps/plug/plug.iml" />
+      <module fileurl="file:///private/var/www/hello_pheonix/deps/poison/poison.iml" filepath="/private/var/www/hello_pheonix/deps/poison/poison.iml" />
+      <module fileurl="file:///private/var/www/hello_pheonix/deps/postgrex/postgrex.iml" filepath="/private/var/www/hello_pheonix/deps/postgrex/postgrex.iml" />
+    </modules>
+  </component>
+</project>

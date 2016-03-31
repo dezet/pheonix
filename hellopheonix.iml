@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="ELIXIR_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file:///var/www/hello_pheonix/_build/dev/lib/hellopheonix/ebin" />
+    <output-test url="file:///var/www/hello_pheonix/_build/test/lib/hellopheonix/ebin" />
+    <exclude-output />
+    <content url="file:///var/www/hello_pheonix">
+      <sourceFolder url="file:///var/www/hello_pheonix/lib" isTestSource="false" />
+      <sourceFolder url="file:///var/www/hello_pheonix/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="hello_pheonix node_modules" level="project" />
+  </component>
+</module>
